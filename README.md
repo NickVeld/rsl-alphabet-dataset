@@ -26,7 +26,7 @@ The dataset contains images that represent following Russian letters:
 * 006 - Model M2
 * 007 - Model M0
 * 008 - Model N0
-* 009 - Model N1 
+* 009 - Model N1
 * 010 - Model N2
 * 011 - Model N3
 * 012 - Model N4
@@ -37,6 +37,26 @@ The dataset contains images that represent following Russian letters:
 * 017 - Model N9
 * 018 - Model N10
 * 019 - Model M3
+* 020 - https://www.spreadthesign.com/ru.ru/alphabet/
+* 021 - Model N11
+* 022 - Model N12
+* 023 - Model N13
+* 024 - Model M14
+* 025 - Model N15
+* 026 - Model N16
+* 027 - Model N17
+* 028 - Model N18
+* 029 - Model N19
+* 030 - Model N20
+* 031 - Model N21
+* 032 - Model N22
+* 033 - Model N23
+* 034 - Model N24
+* 035 - Model N25
+* 036 - Model N26
+* 037 - Model N27
+* 038 - Model N28
+* 039 - Model N29
 
 ## TERMS / COPYRIGHT
 
