@@ -5,11 +5,11 @@
 The dataset contains images that represent following Russian letters:
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| "a" ("а") | "b" ("б") | "c" ("ц") | "ch" ("ч") | "e" ("е") | "f" ("ф") |
-| "g" ("г") | "i" ("и") | "k" ("к") | "kh" ("х") | "l" ("л") | "m" ("м") |
-| "n" ("н") | "o" ("о") | "p" ("п") | "r" ("р") | "s" ("c") | "sh" ("ш") |
-| "t" ("т") | "u" ("у") | "v" ("в") | "ya" ("я") | "ye" ("э") | "yi" ("ы") |
-| "yu" ("ю") | "zh" ("ж")
+| "'" ("ъ/ь") | "a" ("а") | "b" ("б") | "c" ("ц") | "ch" ("ч") | "d" ("д") |
+| "e" ("е") | "f" ("ф") | "g" ("г") | "i" ("и") | "k" ("к") | "kh" ("х") |
+| "l" ("л") | "m" ("м") | "n" ("н") | "o" ("о") | "p" ("п") | "r" ("р") |
+| "s" ("c") | "sh" ("ш") | "t" ("т") | "u" ("у") | "v" ("в") | "ya" ("я") |
+| "ye" ("э") | "yi" ("ы") | "yu" ("ю") | "zh" ("ж")
 
 "x"("y") means that y - a Russian letter, x - its English transcription
 
@@ -57,6 +57,8 @@ The dataset contains images that represent following Russian letters:
 * 037 - Model N27
 * 038 - Model N28
 * 039 - Model N29
+
+For 000-019 "'" and "d" were skipped.
 
 ## TERMS / COPYRIGHT
 
